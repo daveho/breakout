@@ -4,7 +4,7 @@ title: "Breakout"
 artifact-name: breakout
 ---
 
-Due: <span class="cs-commons-tag" id="due"/>
+Due: <span class="csc-subst" id="due"></span>
 
 Getting Started
 ===============
@@ -136,7 +136,7 @@ Power-up bricks must be rendered using a distinct color and/or character.
 Submitting
 ==========
 
-TODO
+<div class="csc-fragment" id="submitting"></div>
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
