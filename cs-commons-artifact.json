@@ -1,0 +1,20 @@
+{
+	"title": "Breakout",
+	"type" : "assignment",
+	"authors": [
+		{
+			"name": "David Hovemeyer",
+			"email": "dhovemey@ycp.edu",
+			"webpage": "http://faculty.ycp.edu/~dhovemey"
+		}
+	],
+	"license": {
+		"shortname" : "CC-BY-SA 3.0",
+		"fullname" : "Creative Commons Share-Alike Attribution 3.0",
+		"webpage" : "https://creativecommons.org/licenses/by-sa/3.0/"
+	},
+	"keywords" : [
+		"cs1", "breakout", "game", "retrogaming", "c"
+	],
+	"programming_language" : "c"
+}
